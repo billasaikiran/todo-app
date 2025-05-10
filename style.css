@@ -1,0 +1,103 @@
+.todo-bg-container{
+    background-color: #f9fbfe;
+    height:100vh;
+}
+.todos-heading{
+    font-family: Roboto;
+    font-size: 46px;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.create-task-heading{
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 700;
+    padding:10px;
+}
+.create-task-heading-sub-part{
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 500;
+}
+.todo-user-input{
+    background-color: white;
+    border-color:#e4e7eb;
+    border-radius: 10px;
+    border-style:solid;
+    border-width:1px;
+    margin:20px;
+    padding:15px;
+    width:100%;
+}
+.add-todo-button{
+    background-color: #4c63b6;
+    color:white;
+    font-size: 18px;
+    margin-top: 10px;
+    border-width:0;
+    border-radius: 4px;
+    margin-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.todos-item-heading{
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 700;
+}
+.todo-item-heading-sub-part{
+    font-size: 32px;
+    font-family: Roboto;
+    font-weight: 500;
+}
+.todo-items-container{
+    margin:0px;
+    padding: 0px;
+}
+.todo-items-container{
+    margin-top:20px;
+}
+.checkbox-input{
+    width:20px;
+    height:20px;
+    margin-top: 12px;
+    margin-right:12px;
+}
+.label-container{
+    background-color: #e6f6ff;
+    width:100%;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 5px;
+    border-color:hsl(195, 94%, 46%);
+    border-right:none;
+    border-bottom: none;
+    border-top: none;
+}
+.checkbox-label{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight:400;
+    width:80%;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+.delete-icon-container{
+    text-align: right;
+    width:20%;
+}
+.delete-icon{
+    padding:15px;
+}
+.checked{
+  color: green;
+  font-size: 18px;
+}
